@@ -1,0 +1,8 @@
+.Outline{
+    margin: 50px;
+    color: black;
+    border: 5px solid blue;
+    outline-width: 10px;
+    outline-style: solid;
+    outline-offset: 5px;
+}
