@@ -1,0 +1,16 @@
+.Margin{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 50px 80px 20px 70px;
+    border: 4px solid red;
+    padding: 50px 20px 90px 100px;
+
+}
+
+p{
+    color:red
+    
+}
+
+
